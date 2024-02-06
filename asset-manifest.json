@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Doggo/static/css/main.bff01ff0.css",
+    "main.js": "/Doggo/static/js/main.8556d3d4.js",
+    "static/js/592.88ab8ccc.chunk.js": "/Doggo/static/js/592.88ab8ccc.chunk.js",
+    "static/media/sundarche.jpg": "/Doggo/static/media/sundarche.17d311e58628627e9b2e.jpg",
+    "static/media/frame-with-dogs-vector-white-background_53876-127700.avif": "/Doggo/static/media/frame-with-dogs-vector-white-background_53876-127700.2c9bb5801c34c537cce5.avif",
+    "index.html": "/Doggo/index.html",
+    "main.bff01ff0.css.map": "/Doggo/static/css/main.bff01ff0.css.map",
+    "main.8556d3d4.js.map": "/Doggo/static/js/main.8556d3d4.js.map",
+    "592.88ab8ccc.chunk.js.map": "/Doggo/static/js/592.88ab8ccc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff01ff0.css",
+    "static/js/main.8556d3d4.js"
+  ]
+}
